@@ -1,0 +1,26 @@
+.footer {
+  text-align: center;
+  margin-top: 60px;
+  padding: 24px 0;
+  color: #d4af37;
+  font-size: 14px;
+  border-top: 1px solid rgba(212, 175, 55, 0.2);
+  animation: fadeUp 0.8s ease forwards;
+}
+
+.footer p {
+  margin: 0;
+  letter-spacing: 0.3px;
+}
+
+@keyframes fadeUp {
+  from {
+    opacity: 0;
+    transform: translateY(18px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
