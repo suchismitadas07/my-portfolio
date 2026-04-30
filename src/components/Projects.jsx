@@ -37,6 +37,16 @@ function Projects() {
       summary: "A safety system for gas leakage and heat monitoring.",
       detailsLink: "#",
     },
+    {
+  title: "🪪 RFID Card Test System",
+  summary: "An RFID-based card testing system for secure access verification.",
+  detailsLink: "#",
+},
+{
+  title: "🔎 ID Detection System",
+  summary: "A smart identification system for detecting and verifying user IDs.",
+  detailsLink: "#",
+},
   ];
 
   return (
