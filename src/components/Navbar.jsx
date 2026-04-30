@@ -1,10 +1,11 @@
 import "./Navbar.css";
+import logo from "../assets/logo.jpg";
 
 function Navbar() {
   return (
     <nav className="navbar">
-      <h2>
-        <span className="logo-dot"></span>
+      <h2 className="nav-brand">
+        <img src={logo} alt="Logo" className="nav-logo" />
         Suchismita Das
       </h2>
 

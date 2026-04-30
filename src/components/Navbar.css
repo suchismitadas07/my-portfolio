@@ -100,3 +100,15 @@
     font-size: 14px;
   }
 }
+
+.nav-brand {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.nav-logo {
+  width: 28px;
+  height: 28px;
+  object-fit: contain;
+}
