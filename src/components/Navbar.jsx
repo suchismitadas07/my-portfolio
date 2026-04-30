@@ -10,11 +10,11 @@ function Navbar() {
       </h2>
 
       <div className="nav-links">
-        <a href="#about">About</a>
-        <a href="#skills">Skills</a>
-        <a href="#projects">Projects</a>
-        <a href="#contact">Contact</a>
-      </div>
+  <a href="#about"><span></span>About</a>
+  <a href="#skills"><span></span>Skills</a>
+  <a href="#projects"><span></span>Projects</a>
+  <a href="#contact"><span></span>Contact</a>
+</div>
     </nav>
   );
 }
