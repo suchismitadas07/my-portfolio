@@ -55,7 +55,7 @@ function Projects() {
       summary: "A smart identification system for detecting and verifying user IDs.",
       about:
         "This project focuses on detecting and verifying ID information for identification-based systems.",
-      image: "rfid_card_id.png",
+      image: "rdid_card_id.png",
       sourceCode: "#",
       demoVideo: "#",
     },
